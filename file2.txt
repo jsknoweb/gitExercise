@@ -1,1 +1,2 @@
-File 2
+This is file 2 with the hotfix
+Hotfix is done !!
